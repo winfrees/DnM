@@ -218,7 +218,7 @@ class JSliderLabels extends JFrame {
 		pack();
 	}
 
-	public static void main(String[] args) {
-		new JSliderLabels().setVisible(true);
-	}
+//	public static void main(String[] args) {
+//		new JSliderLabels().setVisible(true);
+//	}
 }

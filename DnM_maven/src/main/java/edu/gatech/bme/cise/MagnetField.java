@@ -52,7 +52,7 @@ import org.piccolo2d.PCanvas;
 import org.piccolo2d.event.PBasicInputEventHandler;
 import org.piccolo2d.event.PDragEventHandler;
 import org.piccolo2d.event.PInputEvent;
-import edu.umd.cs.piccolox.PFrame;
+import org.piccolo2d.extras.PFrame;
 
 public class MagnetField extends PFrame implements MouseWheelListener,
 		WindowFocusListener, java.io.Serializable {

@@ -22,10 +22,10 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.logging.Logger;
 
-import edu.umd.cs.piccolo.nodes.PImage;
-import edu.umd.cs.piccolo.nodes.PText;
-import edu.umd.cs.piccolo.util.PBounds;
-import edu.umd.cs.piccolo.util.PPaintContext;
+import org.piccolo2d.nodes.PImage;
+import org.piccolo2d.nodes.PText;
+import org.piccolo2d.util.PBounds;
+import org.piccolo2d.util.PPaintContext;
 
 /**
  * @author Ji Soo Yi
